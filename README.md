@@ -9,5 +9,9 @@ It is also important to use a large enough dataset (a large number of text files
 
 In the README file, you can provide a detailed explanation of the performance results, including the specific elapsed times for each method and any observations or insights you have about the reasons for the differences in performance.
 
-here's a diagram for the functions: 
+here's a diagram for the functions of part1: 
 ![Screenshot (52)](https://user-images.githubusercontent.com/118915763/212127146-8b7bef28-c906-4abd-89c0-8434601ea976.png)
+
+
+here is the diagram for part 2: 
+![Screenshot (53)](https://user-images.githubusercontent.com/118915763/212135763-f6ea05c4-8058-4703-9a02-9ce7f69ca13f.png)
