@@ -8,3 +8,6 @@ To measure the performance of these methods, you can use the System.currentTimeM
 It is also important to use a large enough dataset (a large number of text files) to get a meaningful comparison of the performance of the different methods. If the dataset is too small, the differences in performance may not be significant.
 
 In the README file, you can provide a detailed explanation of the performance results, including the specific elapsed times for each method and any observations or insights you have about the reasons for the differences in performance.
+
+here's a diagram for the functions: 
+![Screenshot (52)](https://user-images.githubusercontent.com/118915763/212127146-8b7bef28-c906-4abd-89c0-8434601ea976.png)
